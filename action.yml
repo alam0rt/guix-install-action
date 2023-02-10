@@ -20,7 +20,7 @@ inputs:
     description: 'Run `guix pull` after installing Guix'
     required: false
     default: true
-  guixVersion:
+  guix-version:
     description: 'The version of guix to install'
     required: true
     default: 1.4.0
